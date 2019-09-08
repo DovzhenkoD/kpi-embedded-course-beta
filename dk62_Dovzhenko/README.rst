@@ -15,4 +15,4 @@
 --------------
 
 * E-mail: `d.dovgenko@gmail.com <d.dovgenko@gmail.com>`__
-* Tekegram: `@DanaDov <https://tg.me/DanaDov>`__
+* Telegram: `@DanaDov <https://tg.me/DanaDov>`__
